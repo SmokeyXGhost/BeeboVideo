@@ -75,5 +75,7 @@
         "repeatuntil"   :[V, "repu", None ],
         "acid"          :[V, "acid", r(1, 100) ],
         "glitch"        :[V, "glch", r(1, 100) ],
+        "swirl"         :[V, "sw" ,  r(-360, 360) ],
         "autotune"      :[S, "atb" , "https://www.youtube.com/watch?v=4qyUUgeW1gA" ]
     }
+
